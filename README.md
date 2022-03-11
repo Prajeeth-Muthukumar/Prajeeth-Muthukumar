@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Prajeeth-Muthukumar
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: DISCORD : Prajeeth Muthukumar#4838
-                      Facebook : Prajeeth Muthukumar
-                      Instagram : prajeeth_the_boss
-                      Whatsapp : +919940351569
-                      Telegram : +919940351569
+
                       
 
 <!---
