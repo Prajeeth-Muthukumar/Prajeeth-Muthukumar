@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajeeth-Muthukumar
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python
+- 🌱 Interested on Projects Related to Python
 
                       
 
